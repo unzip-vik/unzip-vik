@@ -1,5 +1,5 @@
 # Hello, I'm Viktor
-<a href="https://www.linkedin.com/in/viktor-perin-35753730b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/viktor-perin-35753730b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedIn&logoColor=white" /></a>
 
 I am a soon-to-be graduate with a profound interest in cybersecurity and a dedication to securing systems from attacks.
 

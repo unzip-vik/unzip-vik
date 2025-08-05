@@ -10,6 +10,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://www.credly.com/users/viktor-perin" target="_blank">
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
+- Planning to take CompTia's CySa+ until 2026.
 </div>
 
 ## Projects

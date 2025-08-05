@@ -3,7 +3,7 @@
 
 I am a soon-to-be graduate with a profound interest in cybersecurity and a dedication to securing systems from attacks.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, aiming to become a cybersecurity engineer.
 
 ## Certifications
 <div>

@@ -13,6 +13,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- <a href="https://github.com/unzip-vik/Phishing-Campaign-Simulation" target="_blank">Phishing Campaign Simualation</a>
+- <a href="https://github.com/unzip-vik/Phishing-Campaign-Simulation" target="_blank">Phishing Campaign Simulation</a>
 - Deploying a SIEM (Wazuh.) and analyzing threats (in progress)
 
